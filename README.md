@@ -157,9 +157,9 @@ Accident occurrence on:
 
 **Abhishek**
 
-Aspiring Data Analyst | Data Science Enthusiast
+Aspiring Data Engineering | Data Science Enthusiast
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: linkedin.com/in/abhishek-raj95
 
 ---
 
