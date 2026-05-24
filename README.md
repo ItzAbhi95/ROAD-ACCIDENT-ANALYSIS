@@ -10,7 +10,7 @@ The goal of this project is to transform raw accident data into meaningful visua
 
 ## Dashboard Preview
 
-![Road Accident Dashboard](Screenshot%202026-03-08%20135401(1).png)
+![Road Accident Dashboard](ROAD_ACCIDENT_DASHBOARD.png)
 
 ---
 
